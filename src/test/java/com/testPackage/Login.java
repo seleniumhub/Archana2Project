@@ -40,7 +40,7 @@ public class Login {
 	@Test (groups = {"Sanity", "unitTesting"})
 	public void HomePAge()
 	{
-		System.out.println(" this is HomePAge");
+		System.out.println(" this is HomePAge123455");
 	}
 	
 	@Test (groups = {"Functional", "Regression"})
