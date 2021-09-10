@@ -46,7 +46,7 @@ public class Login {
 	@Test (groups = {"Functional", "Regression"})
 	public void SearchProduct()
 	{
-		System.out.println(" this is SearchProduct");
+		System.out.println(" this is SearchProduct1234");
 	}
 	
 	
